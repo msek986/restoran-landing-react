@@ -3,27 +3,27 @@ import images from './images';
 const wines = [
   {
     title: 'Chapel Hill Shiraz',
-    price: '$56',
-    tags: 'AU | Bottle',
+    price: '5600 din.',
+    tags: 'AU | Flaša',
   },
   {
     title: 'Catena Malbee',
-    price: '$59',
-    tags: 'AU | Bottle',
+    price: '5900 din.',
+    tags: 'AU | Flaša',
   },
   {
     title: 'La Vieillw Rose',
-    price: '$44',
+    price: '4400 din.',
     tags: 'FR | 750 ml',
   },
   {
     title: 'Rhino Pale Ale',
-    price: '$31',
+    price: '3100 din.',
     tags: 'CA | 750 ml',
   },
   {
     title: 'Irish Guinness',
-    price: '$26',
+    price: '2600 din.',
     tags: 'IE | 750 ml',
   },
 ];
@@ -31,27 +31,27 @@ const wines = [
 const cocktails = [
   {
     title: 'Aperol Sprtiz',
-    price: '$20',
+    price: '700 din.',
     tags: 'Aperol | Villa Marchesi prosecco | soda | 30 ml',
   },
   {
     title: "Dark 'N' Stormy",
-    price: '$16',
+    price: '900 din.',
     tags: 'Dark rum | Ginger beer | Slice of lime',
   },
   {
     title: 'Daiquiri',
-    price: '$10',
+    price: '700 din.',
     tags: 'Rum | Citrus juice | Sugar',
   },
   {
     title: 'Old Fashioned',
-    price: '$31',
+    price: '1500 din.',
     tags: 'Bourbon | Brown sugar | Angostura Bitters',
   },
   {
     title: 'Negroni',
-    price: '$26',
+    price: '1300 din.',
     tags: 'Gin | Sweet Vermouth | Campari | Orange garnish',
   },
 ];
